@@ -12,3 +12,4 @@ opencv-python
 imageio
 Shapely
 imgaug
+protobuf<4 # https://protobuf.dev/news/2022-05-06/
